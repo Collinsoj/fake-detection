@@ -46,7 +46,7 @@ Clone the Repository
 bash
 Copy
 Edit
-git clone https://github.com/your-username/fake-account-detector.git
+git clone https://github.com/collinsoj/fake-detecton.git
 cd fake-account-detector
 Create & Activate a Virtual Environment
 
